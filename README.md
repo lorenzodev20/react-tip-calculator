@@ -34,7 +34,7 @@ Aplicación desarrollada con **React** y **TypeScript**, que permite calcular pr
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/react-calculadora-propinas.git
+git clone https://github.com/lorenzodev20/react-tip-calculator.git
 
 # Entra al directorio del proyecto
 cd react-calculadora-propinas
